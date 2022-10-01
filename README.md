@@ -1,5 +1,9 @@
 # HacktoberFest-22-KeywordIdentifier
 
+## Best projects will get interview opportunity for Software Development Internship at Caliber 🚀💻
+
+### ❗ Submit your pull request as a folder with your name
+
 Input will be a docx or pdf resume file.
 
 Output should be a json or any other format with each word in the resume and its number of occurrence.
