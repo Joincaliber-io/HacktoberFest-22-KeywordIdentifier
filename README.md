@@ -7,6 +7,7 @@
 Input will be a docx or pdf resume file.
 
 Output should be a json or any other format with each word in the resume and its number of occurrence.
+You can use any available library/package or Open API to implement this.
 
 Example pdf:
 
@@ -14,10 +15,10 @@ Example pdf:
 
 Output:
 ```
-IT - 2
+IT - 9
 Microsoft - 2
 Project - 2
-Manager- 2
+Manager - 2
 ...
 ...
 ```
